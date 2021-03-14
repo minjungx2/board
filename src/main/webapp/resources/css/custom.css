@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+.selectContainer{
+	margin-bottom:80px;
+}
+
+.selectType{
+	width: 8vw;
+	height: 38px;
+	margin-right: 10px;
+}
+
+.selectDiv{
+	float: left;
+}
+
+.search-keyword{
+	border-radius: 5px 0px 0px 5px;
+}
+
+.searchBtn{
+	border-radius: 0px 5px 5px 0px;
+}
+
+.searchBar{
+	float: left;
+	width: 15vw;
+}
+
+.searchDiv{
+	margin-bottom:20px;
+}
+
+.register{
+	float: right;
+}
+
+.pageContainer{
+	text-align: center;
+}
+
+.inputbox{
+	height:30vh;
+}
+
+.titlebox{
+	float:left;
+	width: 25vw;
+	margin-right: 20px;
+}
+
+.writerbox{
+	float:left;
+	width: 15vw;
+}
+
+.regtext{
+	font-family: 'Gothic A1', sans-serif;
+	padding: 10px;
+}
+
+
+.container{
+	margin: 0 auto;
+}
+
+.card-header-color{
+	background-color: white;
+}
+
+.postcard-body{
+	height: 50vh;
+}
+
+.readbtnbox{
+	margin-bottom:20px;
+}
